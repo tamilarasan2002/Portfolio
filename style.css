@@ -890,7 +890,6 @@ main {
   padding: 20px;
   display: flex;
   align-items: center;
-  width: 30%;
   border-radius: 10px;
   border: 1px solid var(--jet);
   background: var(--jet);
