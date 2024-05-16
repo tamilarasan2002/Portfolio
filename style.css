@@ -1353,6 +1353,9 @@ textarea.form-input::-webkit-resizer {
   .dialog-container {
     width: 90%;
   }
+   .skill-list {
+    width: calc(100% - 10px);
+  }
 }
 
 @media (min-width: 450px) {
