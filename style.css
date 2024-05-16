@@ -1353,9 +1353,9 @@ textarea.form-input::-webkit-resizer {
   .dialog-container {
     width: 90%;
   }
-   .skill-list {
+  .skill-list {
     width: 90%;
-     margin:auto;
+    margin: auto;
   }
 }
 
