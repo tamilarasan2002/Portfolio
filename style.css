@@ -1354,7 +1354,8 @@ textarea.form-input::-webkit-resizer {
     width: 90%;
   }
    .skill-list {
-    width: calc(100% - 10px);
+    width: 90%;
+     margin:auto;
   }
 }
 
